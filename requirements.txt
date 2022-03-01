@@ -1,0 +1,13 @@
+tkinter
+schedule
+cv2
+numpy
+time
+pyttsx3
+random
+speech_recognition
+PIL 
+deepface
+playsound 
+textblob 
+pygame 
